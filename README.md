@@ -17,4 +17,4 @@ Copy and paste the CSS in [`semi-transparent-buttons.css`](https://github.com/si
 - The idea for semi-transparent UI buttons came from the [Tumblr](https://www.tumblr.com/) front page.
 
 ## License: Public Domain
-The source code contained in `semi-transparent-buttons.css`, `README.md`, `demo/index.html` and `demo/styles.html` are in the [public domain](https://github.com/sixrevisions/semi-transparent-buttons/blob/master/LICENSE). Anyone is free to copy, modify, publish, use, compile, sell, or distribute the source code for any purpose, commercial or non-commercial, and by any means.
+The source code contained in `semi-transparent-buttons.css`, `README.md`, `/demo/index.html` and `/demo/styles.css` are in the [public domain](https://github.com/sixrevisions/semi-transparent-buttons/blob/master/LICENSE). Anyone is free to copy, modify, publish, use, compile, sell, or distribute the source code for any purpose, commercial or non-commercial, and by any means.
