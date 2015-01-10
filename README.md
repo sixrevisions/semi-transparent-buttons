@@ -9,7 +9,7 @@ Semi-transparent UI buttons work wonderfully well in user interfaces that have p
 **[Read Tutorial](http://sixrevisions.com/css/semi-transparent-buttons/)**
 
 ## How to Use
-Copy and paste the CSS in `semi-transparent-buttons.css` to your stylesheet, then modify as needed.
+Copy and paste the CSS in [`semi-transparent-buttons.css`](https://github.com/sixrevisions/semi-transparent-buttons/blob/master/semi-transparent-buttons.css) to your stylesheet, then modify as needed.
 
 ## Credits
 - The background photo used in the demo is from [Unsplash](https://unsplash.imgix.net/photo-1414170562806-9d670e90c091?q=75&fm=jpg&s=6c387bbc7da45696b37e293b15dfa535) and is by Ales Krivec.
