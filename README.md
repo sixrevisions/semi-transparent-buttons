@@ -2,7 +2,7 @@
 Semi-transparent UI buttons work wonderfully well in user interfaces that have photographic image backgrounds.
 
 ## Demo
-![Semi-transparent buttons demo page](http://cdn.sixrevisions.com/0482-01-semi-transparent-buttons-demo-page.jpg)
+[![Semi-transparent buttons demo page](http://cdn.sixrevisions.com/0482-01-semi-transparent-buttons-demo-page.jpg)](http://cdn.sixrevisions.com/demos/semi-transparent-buttons/demo/index.html)
 
 **[View Demo](http://cdn.sixrevisions.com/demos/semi-transparent-buttons/demo/index.html)**
 
